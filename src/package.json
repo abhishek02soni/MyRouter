@@ -1,0 +1,22 @@
+{
+  "name": "abhishek",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek02soni/html.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishek02soni/html/issues"
+  },
+  "homepage": "https://github.com/abhishek02soni/html#readme",
+  "dependencies": {
+    "react-app": "^1.1.2"
+  }
+}
